@@ -1,0 +1,20 @@
+# Hugo output directory
+/public/
+
+# Hugo server files
+/resources/
+/resources/_gen/
+/resources/_gen/images/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore the Hugo cache
+/resources/_gen/
+.sass-cache/
+.resources-cache/
+.staticman/
